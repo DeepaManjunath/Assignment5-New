@@ -9,12 +9,19 @@ Epoch 56/200 360/360 [==============================] - 141s 392ms/step - loss: 
 
 
 val_gender_output_acc: 0.8400
+
 val_image_quality_output_acc: 0.7106 –
+
 val_age_output_acc: 0.8008 –
+
 val_weight_output_acc: 0.8165 – 
+
 val_bag_output_acc: 0.7616 – 
+
 val_footwear_output_acc: 0.7740 –
+
 val_pose_output_acc: 0.8664 – 
+
 val_emotion_output_acc: 0.8523
 =============================================================================================================================================================================================================== 
 Assignment 5 Exercise: Val_acc: 92.94
